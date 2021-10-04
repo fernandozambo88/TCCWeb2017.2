@@ -11,3 +11,6 @@ Designer Partner:
   *MVC (app e api);
   *Clean Code;
   *Material Designer.
+
+ex. html e css:
+https://www.devmedia.com.br/primeiros-passos-no-html5-javascript-e-css3/25647
