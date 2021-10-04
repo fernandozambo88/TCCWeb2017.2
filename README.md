@@ -14,3 +14,4 @@ Designer Partner:
 
 ex. html e css:
 https://www.devmedia.com.br/primeiros-passos-no-html5-javascript-e-css3/25647
+https://www.devmedia.com.br/programando-em-html5/31040
